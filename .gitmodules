@@ -1,0 +1,18 @@
+[submodule "guessing-game"]
+	path = guessing-game
+	url = https://github.com/srkar24/guessing-game.git
+[submodule "simon-game"]
+	path = simon-game
+	url = https://github.com/srkar24/simon-game.git
+[submodule "vga"]
+	path = vga
+	url = https://github.com/srkar24/vga.git
+[submodule "fsm-digital-lock"]
+	path = fsm-digital-lock
+	url = https://github.com/srkar24/fsm-digital-lock.git
+[submodule "pwm"]
+	path = pwm
+	url = https://github.com/srkar24/pwm.git
+[submodule "ssd-keypad"]
+	path = ssd-keypad
+	url = https://github.com/srkar24/ssd-keypad.git
